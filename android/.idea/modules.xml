@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FoodDeliveryUi.iml" filepath="$PROJECT_DIR$/.idea/modules/FoodDeliveryUi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FoodDeliveryUi.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FoodDeliveryUi.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/143622969/FoodDeliveryUi.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/143622969/FoodDeliveryUi.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-535134274/FoodDeliveryUi.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-535134274/FoodDeliveryUi.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1463328555/FoodDeliveryUi.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/-1463328555/FoodDeliveryUi.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/405585822/FoodDeliveryUi.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/405585822/FoodDeliveryUi.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1783406759/FoodDeliveryUi.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1783406759/FoodDeliveryUi.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1811043711/FoodDeliveryUi.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1811043711/FoodDeliveryUi.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/126559580/FoodDeliveryUi.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/126559580/FoodDeliveryUi.react-native-svg.iml" />
+    </modules>
+  </component>
+</project>

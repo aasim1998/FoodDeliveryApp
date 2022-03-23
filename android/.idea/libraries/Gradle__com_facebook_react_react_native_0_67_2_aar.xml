@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native:0.67.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/041b0d10815e5990cbbd95778797f2fb/transformed/jetified-react-native-0.67.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/041b0d10815e5990cbbd95778797f2fb/transformed/jetified-react-native-0.67.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/041b0d10815e5990cbbd95778797f2fb/transformed/jetified-react-native-0.67.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/041b0d10815e5990cbbd95778797f2fb/transformed/jetified-react-native-0.67.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
